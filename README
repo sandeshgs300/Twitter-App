@@ -1,1 +1,1 @@
-Test
+This is an app which runs on nodejs, it will take predefined text as the input for posting the tweets. Need to change the config.js properties according to that of twitter app. 
